@@ -1,5 +1,12 @@
 # jornada-de-dados-23-24
 
+# Documentação do projeto
+
+https://dcgallo.github.io/jornada-de-dados-23-24/
+
+
+# Como este repositório foi criado?
+
 Seguem abaixo os passos que segui para criar um repositório local sincronizado com o Github DO ZERO, desde a instalação do WSL2 no Windows até a sincronização com o Github.
 
 
